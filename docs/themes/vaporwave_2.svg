@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 700" width="400" height="700">
+    <rect width="400" height="700" rx="20" fill="#120b2b"/>
+    <!-- top bar -->
+    <rect y="0" width="400" height="48" rx="20" fill="#1f133c"/>
+    <rect y="28" width="400" height="20" fill="#1f133c"/>
+    <text x="200" y="29" text-anchor="middle" font-size="13" fill="#ff71ce" font-family="sans-serif" font-weight="600">Auth Mate</text>
+    <!-- content -->
+    
+        <rect x="16" y="84" width="368" height="44" rx="10" fill="#1f133c" opacity="0.9"/>
+        <text x="32" y="112" font-size="13" fill="#ff71ce" font-family="sans-serif">⚙ iCloud Sync</text>
+        <text x="368" y="111" fill="#9e64a8" font-family="sans-serif" font-size="14">→</text>
+      
+        <rect x="16" y="138" width="368" height="44" rx="10" fill="#1f133c" opacity="0.9"/>
+        <text x="32" y="166" font-size="13" fill="#ff71ce" font-family="sans-serif">🎨 Theme</text>
+        <text x="368" y="165" fill="#9e64a8" font-family="sans-serif" font-size="14">→</text>
+      
+        <rect x="16" y="192" width="368" height="44" rx="10" fill="#1f133c" opacity="0.9"/>
+        <text x="32" y="220" font-size="13" fill="#ff71ce" font-family="sans-serif">🔒 App Lock</text>
+        <text x="368" y="219" fill="#9e64a8" font-family="sans-serif" font-size="14">→</text>
+      
+    <!-- bottom bar -->
+    <rect y="644" width="400" height="56" rx="20" fill="#1f133c"/>
+    <rect y="624" width="400" height="20" fill="#1f133c"/>
+    <circle cx="100" cy="672" r="12" fill="#ff71ce" opacity="0.5"/>
+    <circle cx="200" cy="672" r="12" fill="#ff71ce" opacity="0.15"/>
+    <circle cx="300" cy="672" r="12" fill="#ff71ce" opacity="0.15"/>
+    <!-- badge -->
+    <rect x="348" y="52" width="40" height="14" rx="4" fill="#ff71ce" opacity="0.6"/>
+    <text x="368" y="62" text-anchor="middle" font-size="7" fill="#fff" font-family="sans-serif" font-weight="bold">PLUS</text>
+    <!-- label -->
+    <text x="200" y="638" text-anchor="middle" font-size="9" fill="#9e64a8" font-family="sans-serif">vaporwave · Settings</text>
+  </svg>
